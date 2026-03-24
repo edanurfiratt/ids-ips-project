@@ -1,33 +1,65 @@
-# IDS/IPS System
+# Intrusion Detection and Prevention System (IDS/IPS)
 
-This project is an Intrusion Detection and Prevention System (IDS/IPS) developed for network security analysis.
+This project focuses on developing an intelligent Intrusion Detection and Prevention System (IDS/IPS) using machine learning and deep learning techniques.
+
+---
 
 ## 📌 Project Overview
-The project focuses on detecting anomalies and potential attacks in network traffic using different datasets and scenarios.
 
-## ⚙️ Phase 1 (First Term)
-In the first phase, the system was tested under three different scenarios:
+The aim of this project is to detect and prevent cyber attacks by analyzing network traffic and identifying anomalous behaviors.
 
-- Ready Dataset (KDD Cup based)
-- Training Dataset
-- Original (Custom) Dataset
+The system is developed in two phases:
 
-Each scenario includes data preprocessing, feature extraction, and anomaly detection processes.
+- **Phase 1:** Classical machine learning-based anomaly detection using multiple datasets  
+- **Phase 2:** Enhancement using custom-generated network traffic and deep learning models  
+
+---
+
+## ⚙️ Phase 1 – Initial Development
+
+In the first phase, the system was developed and tested under three different scenarios:
+
+- **Training Dataset:** Used for model training and evaluation  
+- **Ready Dataset (KDD Cup):** Used as a benchmark dataset  
+- **Original Dataset:** Generated in a controlled lab environment  
+
+### 🔍 Processes:
+- Data preprocessing  
+- Feature extraction  
+- Model training  
+- Anomaly detection  
+
+---
+
+## 🚀 Phase 2 – Advanced Development
+
+In the second phase, the system is being improved by focusing on original data and integrating deep learning techniques.
+
+The goal is to create a hybrid system that combines classical machine learning and deep learning models.
+
+---
 
 ## 📂 Project Structure
 
-- `egitim/` → Training-based experiments  
-- `hazir-dataset/` → Ready dataset (KDD Cup) experiments  
-- `ozgun-veri/` → Custom generated network traffic  
 
-## 🚀 Technologies Used
+
+---
+
+## 🛠️ Technologies Used
+
 - Python  
-- Machine Learning techniques  
-- Network traffic analysis  
+- Machine Learning (Scikit-learn)  
+- Deep Learning (TensorFlow / PyTorch)  
+- Network Traffic Analysis  
+
+---
 
 ## ⚠️ Note
-Large datasets are not included due to size limitations.  
-You can download them from official sources (e.g., KDD Cup dataset).
+
+Large datasets are not included due to GitHub limitations.
+
+---
 
 ## 👩‍💻 Developer
+
 Edanur Fırat
