@@ -1,6 +1,6 @@
 # Intrusion Detection and Prevention System (IDS/IPS)
+A network-based IDS/IPS project. Phase 1 completed with ML models on multiple datasets. Phase 2 focuses on custom traffic and deep learning (in progress).
 
-This project focuses on developing an intelligent Intrusion Detection and Prevention System (IDS/IPS) using machine learning and deep learning techniques.
 
 ---
 
