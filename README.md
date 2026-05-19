@@ -72,3 +72,11 @@ The final architecture combines Machine Learning and Deep Learning outputs using
 # Final Objective
 
 The primary goal of this project is to build an intelligent and scalable IDS/IPS architecture capable of detecting anomalous network behavior using hybrid AI-based approaches and realistic traffic analysis.
+
+---
+
+# Technical Blog
+
+- [What Building an IDS/IPS System Taught Me About Real-World AI Systems](https://medium.com/@edanurfirat/what-building-an-ids-ips-system-taught-me-about-real-world-ai-systems-92c6f9b79ba6)
+
+This article explains the engineering decisions, dataset challenges, feature engineering process, smart labeling strategy, and the lessons learned while developing the IDS/IPS system over time.
